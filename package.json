@@ -1,0 +1,13 @@
+{
+  "name": "rollup-bug-982",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.6.0",
+    "rollup": "^0.67.0"
+  },
+  "scripts": {
+    "start": "rollup -c -w"
+  }
+}
